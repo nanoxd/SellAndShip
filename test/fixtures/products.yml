@@ -1,9 +1,9 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
 
 one:
-  title: Harry Potter and the Chamber of Secrets
-  description: A fantastic book on a wizard and his snake.
-  image_url: hp.jpg
+  title: Saw
+  description: Cuts through bones if you try hard enough!
+  image_url: saw.jpg
   price: 19.99
 
 two:
