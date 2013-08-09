@@ -1,13 +1,13 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
 
 one:
-  title: MyString
-  description: MyText
-  image_url: MyString
-  price: 9.99
+  title: Harry Potter and the Chamber of Secrets
+  description: A fantastic book on a wizard and his snake.
+  image_url: hp.jpg
+  price: 19.99
 
 two:
-  title: MyString
-  description: MyText
-  image_url: MyString
+  title: T6 Screwdriver
+  description: Used for removing pesky screws in Macs.
+  image_url: t6.png
   price: 9.99
