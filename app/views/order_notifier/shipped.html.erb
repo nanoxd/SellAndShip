@@ -1,0 +1,9 @@
+<h3>Sell&Ship Order has Shipped</h3>
+<p>
+  Your recent order has shipped! The following items have been included:
+</p>
+
+<table>
+  <tr><th colspan="2">Qty</th><th>Description</th></tr>
+  <%= render @order.line_items %>
+</table>
