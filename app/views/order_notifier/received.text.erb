@@ -1,0 +1,7 @@
+Dear <%= @order.name %>,
+
+Thank you for your recent order from Sell&Ship.
+
+You ordered the following items:
+
+<%= render @order.line_items -%>
